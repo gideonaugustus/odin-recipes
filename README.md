@@ -1,1 +1,1 @@
-# odin-recipes
+This is a my first portfolio project with Odin Project titled: #odin-recipes.
